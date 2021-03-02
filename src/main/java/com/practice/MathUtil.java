@@ -24,6 +24,7 @@ public class MathUtil {
     }
 
     public int sqr(int a) {
+	 System.out.println("Sqr is:"+(a*a));
         return a*a;
     }
 
