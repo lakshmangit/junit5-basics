@@ -29,6 +29,7 @@ public class MathUtil {
     }
 
     public int cube(int a) {
+	 System.out.println("Cube is:"+(a*a*a));
         return a*a*a;
     }
 }
