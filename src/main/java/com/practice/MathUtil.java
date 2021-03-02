@@ -17,4 +17,9 @@ public class MathUtil {
         System.out.println("mul is: "+ (a*b));
         return a*b;
     }
+
+    public int div(int a, int b) {
+        System.out.println("div is: "+ (a/b));
+        return a/b;
+    }
 }
